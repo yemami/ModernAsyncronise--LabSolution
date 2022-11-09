@@ -34,6 +34,6 @@ class Subject {
   // foo: Corn
   subject.emit("study", "cs445");
   //output for Line above: subject.emit('study', 'cs445');
-  // cs445
+  // cs445:
   // foo: cs445
   
